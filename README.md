@@ -1,5 +1,6 @@
 news-controller
-REST API написанное с помощью kotlin и либы ktor
+
+**REST API написанное с помощью kotlin и либы ktor**
 
 Тех.задание:
 http://testtask.sebbia.com/swagger-ui.html/
